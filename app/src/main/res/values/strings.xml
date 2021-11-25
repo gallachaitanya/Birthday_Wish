@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="input_name">Ex:-Chaitu</string>
+    <string name="celebrate_birthday">Celebrate Birthday</string>
+    <string name="happy_birthday">Happy Birthday</string>
+    <string name="todo">TODO</string>
+</resources>
